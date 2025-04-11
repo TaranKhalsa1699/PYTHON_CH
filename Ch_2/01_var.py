@@ -15,4 +15,5 @@ print(c)
 print(d)
 
 #  printing the types
-print
+
+
